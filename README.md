@@ -50,11 +50,11 @@
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=naryth&theme=react&hide_title=false&layout=compact&langs_count=1006&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats-five-rho-45.vercel.app/api/top-langs?username=naryth&theme=react&hide_title=false&layout=compact&langs_count=1006&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naryth&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats-five-rho-45.vercel.app/api?username=naryth&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
 <a href="https://git.io/streak-stats"><img width="48%" src="https://github-readme-streak-stats-blond-seven.vercel.app?user=naryth&theme=react&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
