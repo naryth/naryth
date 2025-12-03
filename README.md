@@ -2,7 +2,7 @@
 ![👋 Hi, my name is Nhat Nguye](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=apelion283&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=naryth&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=01F71F&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Nhat+Nguyen)](https://git.io/typing-svg)
 
@@ -30,7 +30,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact Me
-<p align="left"><a href="nhat.nd283@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/nhat.nguyendinh.146" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/apelion283" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/apelion283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/nhat_apelion283" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="nhat.nd283@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/nhat.nguyendinh.146" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/naryth" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/naryth" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://x.com/nhat_naryth" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate Android developer, creating robust and scalable mobile applications.</h3>**
 
@@ -44,18 +44,18 @@
 
  **<h3 align="left">GitHub Trophies</h3>**
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=apelion283)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=naryth)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=apelion283&theme=react&hide_title=false&layout=compact&langs_count=1006&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=naryth&theme=react&hide_title=false&layout=compact&langs_count=1006&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apelion283&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-<a href="https://git.io/streak-stats"><img width="48%" src="https://github-readme-streak-stats-blond-seven.vercel.app?user=apelion283&theme=react&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naryth&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+<a href="https://git.io/streak-stats"><img width="48%" src="https://github-readme-streak-stats-blond-seven.vercel.app?user=naryth&theme=react&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 <br>
@@ -64,12 +64,12 @@
 
 ### 💰 &nbsp;Support My Work
  
-<p align="left"><a href="https://www.paypal.com/paypalme/apelion283" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.paypal.com/paypalme/naryth" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
 
 <p align="center">
 
 ## 🐍 A Snake Eating my Contributions Graph
-![snake_gif](https://github.com/apelion283/apelion283/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/naryth/naryth/blob/output/github-snake-dark.svg)
 </p>
 
 <p align="center">
